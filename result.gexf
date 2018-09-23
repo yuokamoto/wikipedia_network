@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="2" title="relation" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="genre" type="string" />
+      <attribute id="1" title="point" type="double" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>24/09/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="菅正太郎" label="菅正太郎">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="楽映舎" label="楽映舎">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="川元利浩" label="川元利浩">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="神山健治" label="神山健治">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="佐藤満春" label="佐藤満春">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="佐藤大" label="佐藤大">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.7" />
+        </attvalues>
+      </node>
+      <node id="既刊3巻" label="既刊3巻">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="「キス我慢選手権 THE MOVIE2」製作委員会" label="「キス我慢選手権 THE MOVIE2」製作委員会">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="富重裕子" label="富重裕子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="アンメック" label="アンメック">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="士郎正宗" label="士郎正宗">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="石井玄" label="石井玄">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.5" />
+        </attvalues>
+      </node>
+      <node id="太田敏明" label="太田敏明">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="五箇公貴" label="五箇公貴">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="フジテレビ" label="フジテレビ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="塩谷泰孝" label="塩谷泰孝">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.6" />
+        </attvalues>
+      </node>
+      <node id="田村育" label="田村育">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.7" />
+        </attvalues>
+      </node>
+      <node id="バンダイビジュアル" label="バンダイビジュアル">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="ビクターエンタテインメント" label="ビクターエンタテインメント">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="信本敬子" label="信本敬子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.1" />
+        </attvalues>
+      </node>
+      <node id="松崎聡男" label="松崎聡男">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.85" />
+        </attvalues>
+      </node>
+      <node id="村上正博" label="村上正博">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="劇団ひとり" label="劇団ひとり">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.7" />
+        </attvalues>
+      </node>
+      <node id="石川吉元" label="石川吉元">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="渡辺繁" label="渡辺繁">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="テレビ東京" label="テレビ東京">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="4.3" />
+        </attvalues>
+      </node>
+      <node id="オードリー" label="オードリー">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="パーフェクト・チョイス" label="パーフェクト・チョイス">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="42è©±" label="42è©±">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="田中宏侍" label="田中宏侍">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="小内一豊" label="小内一豊">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="佐藤俊一" label="佐藤俊一">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.85" />
+        </attvalues>
+      </node>
+      <node id="南雅彦" label="南雅彦">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="寺戸信寿" label="寺戸信寿">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="小田切暁" label="小田切暁">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.7" />
+        </attvalues>
+      </node>
+      <node id="杉本京加" label="杉本京加">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="全5話" label="全5話">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="藤咲淳一" label="藤咲淳一">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="中村豊" label="中村豊">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="週刊ヤングマガジン" label="週刊ヤングマガジン">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="鳥羽聡" label="鳥羽聡">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="植松淳一" label="植松淳一">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="全3巻" label="全3巻">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="マンガボックス" label="マンガボックス">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="北村宏一" label="北村宏一">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="風間誠" label="風間誠">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.7" />
+        </attvalues>
+      </node>
+      <node id="杉田敦" label="杉田敦">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="アニメ" label="アニメ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.4" />
+        </attvalues>
+      </node>
+      <node id="竹田悠介" label="竹田悠介">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="河森正治" label="河森正治">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="たりないふたり" label="たりないふたり">
+        <attvalues>
+          <attvalue for="0" value="バラエティ" />
+          <attvalue for="1" value="0.95" />
+        </attvalues>
+      </node>
+      <node id="露木寛子" label="露木寛子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.6" />
+        </attvalues>
+      </node>
+      <node id="後藤雅巳" label="後藤雅巳">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="中山しほ子" label="中山しほ子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="徳間デュアル文庫" label="徳間デュアル文庫">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="菅野よう子" label="菅野よう子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="4.1" />
+        </attvalues>
+      </node>
+      <node id="平野綾音" label="平野綾音">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="攻殻機動隊 STAND ALONE COMPLEX" label="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="0" value="SF" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="三宅容介" label="三宅容介">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="寺岡賢司" label="寺岡賢司">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="盛谷尚也" label="盛谷尚也">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="「キス我慢選手権 THE MOVIE」製作委員会" label="「キス我慢選手権 THE MOVIE」製作委員会">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="成瀬正人" label="成瀬正人">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="サンライズ" label="サンライズ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="とんぱちオードリー" label="とんぱちオードリー">
+        <attvalues>
+          <attvalue for="0" value="バラエティ" />
+          <attvalue for="1" value="0.9" />
+        </attvalues>
+      </node>
+      <node id="常木志伸" label="常木志伸">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="今村光宏" label="今村光宏">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.7" />
+        </attvalues>
+      </node>
+      <node id="渡辺信一郎" label="渡辺信一郎">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="森ハヤシ" label="森ハヤシ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="斉藤崇" label="斉藤崇">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.7" />
+        </attvalues>
+      </node>
+      <node id="小野亮太" label="小野亮太">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="Production I.G" label="Production I.G">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="永井ふわふわ" label="永井ふわふわ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.75" />
+        </attvalues>
+      </node>
+      <node id="中澤一登" label="中澤一登">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="今掛勇" label="今掛勇">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="衣谷遊" label="衣谷遊">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="石川光久" label="石川光久">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="矢立肇" label="矢立肇">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.1" />
+        </attvalues>
+      </node>
+      <node id="徳間書店" label="徳間書店">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="山根公利" label="山根公利">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.1" />
+        </attvalues>
+      </node>
+      <node id="DeNA" label="DeNA">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="小林克良" label="小林克良">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.4" />
+        </attvalues>
+      </node>
+      <node id="毛利忍" label="毛利忍">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.85" />
+        </attvalues>
+      </node>
+      <node id="カウボーイビバップ" label="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="0" value="SF" />
+          <attvalue for="1" value="0.7" />
+        </attvalues>
+      </node>
+      <node id="友定紘子" label="友定紘子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="若林和弘" label="若林和弘">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="片山由美子" label="片山由美子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="日本テレビ系列" label="日本テレビ系列">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="2004年1月21日 - 2005年2月4日" label="2004年1月21日 - 2005年2月4日">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="ゴッドタン" label="ゴッドタン">
+        <attvalues>
+          <attvalue for="0" value="バラエティ" />
+          <attvalue for="1" value="0.9" />
+        </attvalues>
+      </node>
+      <node id="攻殻機動隊製作委員会" label="攻殻機動隊製作委員会">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="美濃部遥香" label="美濃部遥香">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="ボンズ" label="ボンズ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.1" />
+        </attvalues>
+      </node>
+      <node id="佐久間宣行" label="佐久間宣行">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="9.9" />
+        </attvalues>
+      </node>
+      <node id="新井秀和" label="新井秀和">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="TREX FILM" label="TREX FILM">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="2010年第2号 -" label="2010年第2号 -">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="南雅史" label="南雅史">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="大川明子" label="大川明子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="加藤浩" label="加藤浩">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="シオプロ" label="シオプロ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.6" />
+        </attvalues>
+      </node>
+      <node id="宮尾淳一" label="宮尾淳一">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="全26話" label="全26話">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="下村一" label="下村一">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="講談社" label="講談社">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="岩崎太整" label="岩崎太整">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.6" />
+        </attvalues>
+      </node>
+      <node id="東宝映像事業部" label="東宝映像事業部">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.6" />
+        </attvalues>
+      </node>
+      <node id="櫻井圭記" label="櫻井圭記">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="2013年12月4日配信 - 2016年第42号" label="2013年12月4日配信 - 2016年第42号">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="遠藤誠" label="遠藤誠">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="アルコ&amp;ピースのオールナイトニッポンシリーズ" label="アルコ&amp;ピースのオールナイトニッポンシリーズ">
+        <attvalues>
+          <attvalue for="0" value="バラエティ" />
+          <attvalue for="1" value="0.85" />
+        </attvalues>
+      </node>
+      <node id="前田茂司" label="前田茂司">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="既刊5巻" label="既刊5巻">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="熊崎真知子" label="熊崎真知子">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="大田圭二" label="大田圭二">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="各巻でストーリーは独立" label="各巻でストーリーは独立">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="林田晋一" label="林田晋一">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="小松俊喜" label="小松俊喜">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="安島隆" label="安島隆">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.85" />
+        </attvalues>
+      </node>
+      <node id="月刊ヤングマガジン" label="月刊ヤングマガジン">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="日本テレビ" label="日本テレビ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.85" />
+        </attvalues>
+      </node>
+      <node id="オークラ" label="オークラ">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="オードリーのオールナイトニッポン" label="オードリーのオールナイトニッポン">
+        <attvalues>
+          <attvalue for="0" value="バラエティ" />
+          <attvalue for="1" value="0.9" />
+        </attvalues>
+      </node>
+      <node id="川島省吾" label="川島省吾">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="双津大地郎" label="双津大地郎">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="4.6" />
+        </attvalues>
+      </node>
+      <node id="宗岡芳樹" label="宗岡芳樹">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="3.45" />
+        </attvalues>
+      </node>
+      <node id="石井成臣" label="石井成臣">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="NRN" label="NRN">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.75" />
+        </attvalues>
+      </node>
+      <node id="松家雄一郎" label="松家雄一郎">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="jenny01「My first recipe」" label="jenny01「My first recipe」">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="ニッポン放送" label="ニッポン放送">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.75" />
+        </attvalues>
+      </node>
+      <node id="水口健司" label="水口健司">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="山村淳史" label="山村淳史">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="永久保仁志" label="永久保仁志">
+        <attvalues>
+          <attvalue for="0" value="attribute" />
+          <attvalue for="1" value="2.7" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="菅正太郎" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="楽映舎" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="制作協力" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="川元利浩" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="絵コンテ協力" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="神山健治" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="シリーズ構成" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="佐藤満春" target="たりないふたり">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="佐藤満春" target="オードリーのオールナイトニッポン">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="佐藤大" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="佐藤大" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="舞台設定" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="既刊3巻" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="巻数" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="「キス我慢選手権 THE MOVIE2」製作委員会" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="製作" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="富重裕子" target="たりないふたり">
+        <attvalues>
+          <attvalue for="2" value="デスク" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="アンメック" target="たりないふたり">
+        <attvalues>
+          <attvalue for="2" value="制作協力" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="士郎正宗" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="原作" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="石井玄" target="オードリーのオールナイトニッポン">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="石井玄" target="アルコ&amp;ピースのオールナイトニッポンシリーズ">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="太田敏明" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="音楽プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="五箇公貴" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="フジテレビ" target="とんぱちオードリー">
+        <attvalues>
+          <attvalue for="2" value="制作局" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="塩谷泰孝" target="とんぱちオードリー">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="塩谷泰孝" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="田村育" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="バンダイビジュアル" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="制作" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="ビクターエンタテインメント" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="音楽制作" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="信本敬子" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="シリーズ構成" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="松崎聡男" target="たりないふたり">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="村上正博" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="特殊効果" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="劇団ひとり" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="出演者" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="石川吉元" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="音楽ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="渡辺繁" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="企画" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="テレビ東京" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="放送局" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="テレビ東京" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="企画・制作" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="オードリー" target="オードリーのオールナイトニッポン">
+        <attvalues>
+          <attvalue for="2" value="パーソナリティ" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="オードリー" target="とんぱちオードリー">
+        <attvalues>
+          <attvalue for="2" value="出演者" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="パーフェクト・チョイス" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="放送局" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="42è©±" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="話数" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="田中宏侍" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="撮影監督" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="小内一豊" target="たりないふたり">
+        <attvalues>
+          <attvalue for="2" value="モニター" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="佐藤俊一" target="たりないふたり">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="南雅彦" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="寺戸信寿" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="小田切暁" target="たりないふたり">
+        <attvalues>
+          <attvalue for="2" value="音効" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="小田切暁" target="とんぱちオードリー">
+        <attvalues>
+          <attvalue for="2" value="音響効果" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="小田切暁" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="音響効果" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="杉本京加" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="衣装" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="全5話" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="話数" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="藤咲淳一" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="中村豊" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="アクション作画監督" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="週刊ヤングマガジン" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="掲載誌" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="鳥羽聡" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="演出助手" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="植松淳一" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="編集" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="全3巻" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="巻数" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="マンガボックス" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="掲載誌" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="北村宏一" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="映像" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="風間誠" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="撮影監督" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="杉田敦" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="アニメ" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="ポータル" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="アニメ" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="ポータル" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="竹田悠介" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="美術監督" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="河森正治" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="設定協力" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="たりないふたり" target="永井ふわふわ">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="たりないふたり" target="安島隆">
+        <attvalues>
+          <attvalue for="2" value="企画・演出" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="たりないふたり" target="毛利忍">
+        <attvalues>
+          <attvalue for="2" value="ラインプロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="たりないふたり" target="熊崎真知子">
+        <attvalues>
+          <attvalue for="2" value="デザイン" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="たりないふたり" target="友定紘子">
+        <attvalues>
+          <attvalue for="2" value="広報" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="たりないふたり" target="林田晋一">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="たりないふたり" target="双津大地郎">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="たりないふたり" target="平野綾音">
+        <attvalues>
+          <attvalue for="2" value="AP" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="たりないふたり" target="日本テレビ">
+        <attvalues>
+          <attvalue for="2" value="企画・制作" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="たりないふたり" target="成瀬正人">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="たりないふたり" target="新井秀和">
+        <attvalues>
+          <attvalue for="2" value="企画・演出" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="たりないふたり" target="水口健司">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="たりないふたり" target="大川明子">
+        <attvalues>
+          <attvalue for="2" value="美術プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="たりないふたり" target="小野亮太">
+        <attvalues>
+          <attvalue for="2" value="AD" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="露木寛子" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="アソシエイトプロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="後藤雅巳" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="メカニック作画監督" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="中山しほ子" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="色彩設計" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="徳間デュアル文庫" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="レーベル" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="菅野よう子" target="攻殻機動隊 STAND ALONE COMPLEX">
+        <attvalues>
+          <attvalue for="2" value="音楽" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="菅野よう子" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="音楽" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="攻殻機動隊 STAND ALONE COMPLEX" target="Production I.G">
+        <attvalues>
+          <attvalue for="2" value="制作" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="攻殻機動隊 STAND ALONE COMPLEX" target="中澤一登">
+        <attvalues>
+          <attvalue for="2" value="イラスト" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="攻殻機動隊 STAND ALONE COMPLEX" target="全26話">
+        <attvalues>
+          <attvalue for="2" value="話数" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="攻殻機動隊 STAND ALONE COMPLEX" target="櫻井圭記">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="攻殻機動隊 STAND ALONE COMPLEX" target="2013年12月4日配信 - 2016年第42号">
+        <attvalues>
+          <attvalue for="2" value="発表期間" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="攻殻機動隊 STAND ALONE COMPLEX" target="既刊5巻">
+        <attvalues>
+          <attvalue for="2" value="巻数" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="攻殻機動隊 STAND ALONE COMPLEX" target="若林和弘">
+        <attvalues>
+          <attvalue for="2" value="音響監督" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="攻殻機動隊 STAND ALONE COMPLEX" target="2010年第2号 -">
+        <attvalues>
+          <attvalue for="2" value="発表期間" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="攻殻機動隊 STAND ALONE COMPLEX" target="各巻でストーリーは独立">
+        <attvalues>
+          <attvalue for="2" value="その他" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="攻殻機動隊 STAND ALONE COMPLEX" target="月刊ヤングマガジン">
+        <attvalues>
+          <attvalue for="2" value="掲載誌" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="攻殻機動隊 STAND ALONE COMPLEX" target="2004年1月21日 - 2005年2月4日">
+        <attvalues>
+          <attvalue for="2" value="刊行期間" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="攻殻機動隊 STAND ALONE COMPLEX" target="攻殻機動隊製作委員会">
+        <attvalues>
+          <attvalue for="2" value="製作" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="攻殻機動隊 STAND ALONE COMPLEX" target="徳間書店">
+        <attvalues>
+          <attvalue for="2" value="出版社" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="攻殻機動隊 STAND ALONE COMPLEX" target="寺岡賢司">
+        <attvalues>
+          <attvalue for="2" value="メカニックデザイン" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="攻殻機動隊 STAND ALONE COMPLEX" target="衣谷遊">
+        <attvalues>
+          <attvalue for="2" value="作者" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="攻殻機動隊 STAND ALONE COMPLEX" target="石川光久">
+        <attvalues>
+          <attvalue for="2" value="企画" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="攻殻機動隊 STAND ALONE COMPLEX" target="DeNA">
+        <attvalues>
+          <attvalue for="2" value="出版社" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="攻殻機動隊 STAND ALONE COMPLEX" target="常木志伸">
+        <attvalues>
+          <attvalue for="2" value="メカニックデザイン" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="攻殻機動隊 STAND ALONE COMPLEX" target="片山由美子">
+        <attvalues>
+          <attvalue for="2" value="色彩設定" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="攻殻機動隊 STAND ALONE COMPLEX" target="加藤浩">
+        <attvalues>
+          <attvalue for="2" value="美術設定" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="攻殻機動隊 STAND ALONE COMPLEX" target="松家雄一郎">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="攻殻機動隊 STAND ALONE COMPLEX" target="遠藤誠">
+        <attvalues>
+          <attvalue for="2" value="3D監督" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="攻殻機動隊 STAND ALONE COMPLEX" target="日本テレビ系列">
+        <attvalues>
+          <attvalue for="2" value="放送局" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="攻殻機動隊 STAND ALONE COMPLEX" target="下村一">
+        <attvalues>
+          <attvalue for="2" value="キャラクターデザイン" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="攻殻機動隊 STAND ALONE COMPLEX" target="講談社">
+        <attvalues>
+          <attvalue for="2" value="出版社" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="三宅容介" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="製作" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="盛谷尚也" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="製作" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="「キス我慢選手権 THE MOVIE」製作委員会" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="製作" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="成瀬正人" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="サンライズ" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="企画" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="とんぱちオードリー" target="永井ふわふわ">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="とんぱちオードリー" target="シオプロ">
+        <attvalues>
+          <attvalue for="2" value="制作協力" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="とんぱちオードリー" target="美濃部遥香">
+        <attvalues>
+          <attvalue for="2" value="AP" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="とんぱちオードリー" target="オークラ">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="とんぱちオードリー" target="水口健司">
+        <attvalues>
+          <attvalue for="2" value="総合演出" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="今村光宏" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="渡辺信一郎" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="監督・構成" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="森ハヤシ" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="斉藤崇" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="永井ふわふわ" target="ゴッドタン">
+        <attvalues>
+          <attvalue for="2" value="構成" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="今掛勇" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="セットデザイン" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="矢立肇" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="原作" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="山根公利" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="メカニックデザイン" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="小林克良" target="カウボーイビバップ">
+        <attvalues>
+          <attvalue for="2" value="音響監督" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="カウボーイビバップ" target="ボンズ">
+        <attvalues>
+          <attvalue for="2" value="制作" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="ゴッドタン" target="東宝映像事業部">
+        <attvalues>
+          <attvalue for="2" value="配給" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="ゴッドタン" target="美濃部遥香">
+        <attvalues>
+          <attvalue for="2" value="AP" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="ゴッドタン" target="佐久間宣行">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="ゴッドタン" target="TREX FILM">
+        <attvalues>
+          <attvalue for="2" value="制作協力" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="ゴッドタン" target="南雅史">
+        <attvalues>
+          <attvalue for="2" value="制作" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="ゴッドタン" target="シオプロ">
+        <attvalues>
+          <attvalue for="2" value="制作協力" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="ゴッドタン" target="宮尾淳一">
+        <attvalues>
+          <attvalue for="2" value="照明" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="ゴッドタン" target="岩崎太整">
+        <attvalues>
+          <attvalue for="2" value="音楽" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="ゴッドタン" target="山村淳史">
+        <attvalues>
+          <attvalue for="2" value="ラインプロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="ゴッドタン" target="大田圭二">
+        <attvalues>
+          <attvalue for="2" value="製作" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="ゴッドタン" target="小松俊喜">
+        <attvalues>
+          <attvalue for="2" value="ラインプロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="ゴッドタン" target="オークラ">
+        <attvalues>
+          <attvalue for="2" value="脚本" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="ゴッドタン" target="川島省吾">
+        <attvalues>
+          <attvalue for="2" value="出演者" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="ゴッドタン" target="双津大地郎">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="ゴッドタン" target="jenny01「My first recipe」">
+        <attvalues>
+          <attvalue for="2" value="エンディング" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="ゴッドタン" target="前田茂司">
+        <attvalues>
+          <attvalue for="2" value="プロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="ゴッドタン" target="石井成臣">
+        <attvalues>
+          <attvalue for="2" value="アソシエイトプロデューサー" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="ゴッドタン" target="永久保仁志">
+        <attvalues>
+          <attvalue for="2" value="音声" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="アルコ&amp;ピースのオールナイトニッポンシリーズ" target="宗岡芳樹">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="アルコ&amp;ピースのオールナイトニッポンシリーズ" target="NRN">
+        <attvalues>
+          <attvalue for="2" value="ネットワーク" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="アルコ&amp;ピースのオールナイトニッポンシリーズ" target="ニッポン放送">
+        <attvalues>
+          <attvalue for="2" value="放送局" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="オードリーのオールナイトニッポン" target="宗岡芳樹">
+        <attvalues>
+          <attvalue for="2" value="ディレクター" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="オードリーのオールナイトニッポン" target="NRN">
+        <attvalues>
+          <attvalue for="2" value="ネットワーク" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="オードリーのオールナイトニッポン" target="ニッポン放送">
+        <attvalues>
+          <attvalue for="2" value="放送局" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
