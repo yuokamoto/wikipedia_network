@@ -10,7 +10,7 @@
     </attributes>
     <meta>
       <creator>NetworkX 2.0</creator>
-      <lastmodified>24/09/2018</lastmodified>
+      <lastmodified>15/07/2019</lastmodified>
     </meta>
     <nodes>
       <node id="佐藤満春" label="佐藤満春">
@@ -218,7 +218,7 @@
       </edge>
       <edge id="9" source="テレビ東京" target="ゴッドタン">
         <attvalues>
-          <attvalue for="2" value="企画・制作" />
+          <attvalue for="2" value="制作" />
         </attvalues>
       </edge>
       <edge id="10" source="オードリー" target="オードリーのオールナイトニッポン">
