@@ -17,11 +17,12 @@ The python class which get staff information from wikipeia on TV, radio and Movi
 ## Usage
 1. create contents.csv file with contents you want to check relations
     - contents have タイトル,ポイント,id(optional) columns.
-2. execute wikiparse_networkx.ipynb
+2. execute wikiscraper.ipynb
     - Nodes have point attribute and that is sum of all points contents related to node
     - Nodes from input file(contents) have genre attribute.
     - Nodes will be removed from lower point nodes to make number of nodes less than 500 since too many nodes are difficult to see.
-3. use gexf file viewer, e.g. Gephi to see network.
+    - You can see graph inside jupyter notebook. 
+3. use gexf file viewer, e.g. Gephi to customize visualization more.
 
 ## Example
 - Color partition on genre
